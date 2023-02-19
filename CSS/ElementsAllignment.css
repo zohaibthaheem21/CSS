@@ -1,0 +1,23 @@
+.border{
+    border: 2px;
+    border-color: red;
+    height: 100px;
+    width: 200px;
+}
+.float-right{
+    float: right;
+}
+.float-left
+{
+    float: left;
+}
+.mt-5{
+    margin: 300px;
+}
+img{
+    width: 200px !important;
+    margin: 20px;
+}
+.text-align{
+    text-align: center;
+}

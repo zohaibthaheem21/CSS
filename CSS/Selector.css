@@ -1,0 +1,25 @@
+p{
+    color: brown;
+}
+h1{
+    color: blue;
+}
+/* id selector is here if we do not want to change a color of some paragraphs or we want to give an other color to an other paragrap */
+#paragraph{
+    color: blue;
+}
+/* class selector here we can change background color but background color does not work in the id selecctor so it is best approach to use a class selector instead of id selector */
+.paragraph{
+    color: green;
+}
+.background{
+    background-color: cyan;
+}
+/* universal selector to change all at a time like font size or font family */
+*{
+    font-size: 20px;
+}
+/* Group Selector to select more than one paragraph or heading or any thing else */
+h1, .group{
+    background-color: darkgoldenrod;
+}

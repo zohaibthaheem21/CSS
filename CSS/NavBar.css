@@ -1,0 +1,13 @@
+.d-flex{
+    display: flex;
+    background-color: red;
+    padding: 20px;
+}
+.d-flex li{
+    margin-left: 20px;
+    list-style-type: none;
+}
+a{
+    color: white !important;
+    text-decoration: none;
+}

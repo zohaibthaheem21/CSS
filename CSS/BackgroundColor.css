@@ -1,0 +1,16 @@
+h1{
+    background-color: brown;
+}
+body{
+    background-color: cyan;
+}
+/* body{
+    background: url(./css.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+} */
+.cssimage{
+    background-image: url(./css.png);
+    background-size: cover;
+    background-color: darkgoldenrod;
+}

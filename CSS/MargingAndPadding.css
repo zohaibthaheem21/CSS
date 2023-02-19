@@ -1,0 +1,21 @@
+.bg-image{
+    border: 2px solid black;
+}
+.padding{
+    /* from every corner and side */
+    /* padding: 10px;  */
+    /* Separate */
+    padding-top: 15px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 10px;
+}
+.margin{
+    /* It is to much */
+    /* margin: 20%; */
+    /* This is for all corners */
+    /* margin: 20px; */
+    /* Separate */
+    margin-top: 20px;
+    margin-left: 20px;
+} 

@@ -1,0 +1,24 @@
+.static{
+    position: static;
+    position: relative;
+    /* position: absolute; */
+}
+/* h1{
+    position: relative !important;
+} */
+.fixed{
+    position: fixed !important;
+}
+.button{
+    background-color: blue;
+    color: blue;
+    padding: 5px;
+    margin: 10px;
+}
+.absolute{
+    position: absolute;
+}
+.sticky{
+    position: sticky;
+    top: 0px;
+}
